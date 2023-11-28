@@ -1,0 +1,13 @@
+aiogram==3.1.1
+aiohttp==3.8.6
+aiomysql==0.2.0
+Babel==2.13.1
+cachetools==5.3.2
+cryptography==41.0.5
+environs==9.5.0
+pydantic==2.3.0
+redis==5.0.1
+SQLAlchemy==2.0.23
+motor==3.3.1
+aiofiles~=23.1.0
+aiocsv~=1.2.5
